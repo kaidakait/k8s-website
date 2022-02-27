@@ -1,5 +1,5 @@
 # k8s-website - kaidit.ddns.net
-The website that is hosted by my homelab
+The website that is hosted by my homelab on my kubenetes cluster
 
 Homelab items
 
