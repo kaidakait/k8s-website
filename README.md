@@ -1,4 +1,4 @@
-# k8s-website
+# k8s-website - kaidit.ddns.net
 The website that is hosted by my homelab
 
 Homelab items
